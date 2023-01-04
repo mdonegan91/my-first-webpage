@@ -27,6 +27,6 @@ _Web pages detailing a few of my favorite things and places. Users can view a li
 
 ## License
 
-* _MIT_*
+* _MIT_
 
 Copyright (c) _2023_ _Molly Donegan and Kai Clausen_
