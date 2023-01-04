@@ -1,0 +1,13 @@
+title {
+  color: blueviolet;
+  background-color: black;
+}
+h1 {
+  font-style: inherit;
+  text-align: right;
+  text-decoration: wavy;
+}
+li {
+  font-family: fantasy;
+  font-weight: 900;
+}
